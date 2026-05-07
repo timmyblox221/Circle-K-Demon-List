@@ -1,27 +1,27 @@
 [
     {
         "role": "owner",
-        "name": "List Owner",
-        "link": "https://www.youtube.com/@Prometheus_Alt"
+        "name": "Yoshi",
+        "link": "https://www.youtube.com/@yoshi_dt"
     },
     {
         "role": "admin",
-        "name": "List Admin",
-        "link": "https://www.youtube.com/@Prometheus_Alt"
+        "name": "None",
+        "link": "youtube.com"
     },
     {
         "role": "helper",
-        "name": "List Helper",
-        "link": "https://www.youtube.com/@Prometheus_Alt"
+        "name": "None",
+        "link": "https://www.youtube.com/"
     },
     {
         "role": "trial",
-        "name": "Trial List Helper",
-        "link": "https://www.youtube.com/@Prometheus_Alt"
+        "name": "None",
+        "link": "youtube.com"
     },
     {
         "role": "dev",
-        "name": "List Coder",
+        "name": "TSL Guy",
         "link": "https://www.youtube.com/@Prometheus_Alt"
     }
 ]
